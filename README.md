@@ -1,5 +1,4 @@
 - Hi, I’m Kiefer!
-- I'm a game developer and musician who made Katja's Abyss: Tactics, a turn-based strategy game.
-- I'm currently looking for a position in game design to transition to after my current project(s) come to a close.
-- I'm lead designer for Hidden Harmony, a musical composition-based exploration game. 
-- Contact me on Twitter @kiefJerky
+- I'm a game developer who made Katja's Abyss: Tactics, a turn-based strategy game.
+- I'm currently looking for a position in game design after the closing of Funomena 
+- Contact me on Twitter! @kiefJerky
